@@ -18,11 +18,14 @@ Foram usados vetores de tamanho 100k, 500k, 1M, 2M, 5M e 10M para a geração de
 
 ### Imagens:
 
-#### Gráficos O(n log n)
+#### Gráfico O(n log n)
 ![Gráficos O(n log n)](./assets/1.png)
 
 #### Benchmark O(n log n)
 ![Benchmarck log](./assets/2.png)
+
+#### Gráfico O(n log n) vs O(n²)
+![Gráfico_comp](./assets/4.png)
 
 #### Benchmark O(n log n) vs O(n²)
 ![Benchmark_log_vs_n²](./assets/3.png)
